@@ -19,8 +19,6 @@ Este projeto é uma aplicação de gerenciamento de tarefas construída com .NET
 - Moq
 - Swashbuckle.AspNetCore
 - System.ComponentModel.Annotations
-- xUnit
-- xUnit.runner.visualstudio
 
 ### Frontend
 - Axios
