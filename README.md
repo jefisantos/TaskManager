@@ -89,7 +89,32 @@ Este projeto é uma aplicação de gerenciamento de tarefas construída com .NET
 4. Portas usadas no projeto:
     - Frontend: `http://localhost:8080`
     - Backend: `http://localhost:5004`
-    - 
+### Estrutura do Projeto
+projeto/
+├── TaskManagerAPI/
+│   ├── Controllers/
+│   │   └── TaskController.cs
+│   ├── Data/
+│   │   └── TaskContext.cs
+│   ├── Models/
+│   │   └── TaskItem.cs
+│   ├── Program.cs
+│   ├── appsettings.json
+│   ├── TaskManagerAPI.csproj
+│   └── ...
+├── task-manager/
+│   ├── src/
+│   │   ├── assets/
+│   │   ├── components/
+│   │   │   ├── TaskForm.vue
+│   │   │   └── TaskList.vue
+│   │   ├── App.vue
+│   │   ├── main.js
+│   │   └── ...
+│   ├── package.json
+│   └── ...
+└── README.md
+
 ## Testando as APIs do Backend com Postman
 
 As APIs do backend foram testadas utilizando o Postman. Abaixo estão alguns exemplos de como usá-las com JSON.
