@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "OOgS25KIp/Unjrv+jR32xRmeTBOjjEDgDvOalGyrvig=",
+  "Source": "TaskManagerAPI",
+  "BasePath": "_content/TaskManagerAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
