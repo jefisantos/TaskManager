@@ -9,7 +9,7 @@ Este projeto é uma aplicação de gerenciamento de tarefas construída com .NET
 - .NET SDK (versão 9.0)
 - SQLite
 - Vue.js (versão 3.5.13)
-- 
+  
 ## Dependências
 ### Backend
 - Microsoft.EntityFrameworkCore
