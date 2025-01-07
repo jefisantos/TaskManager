@@ -39,7 +39,7 @@ Este projeto é uma aplicação de gerenciamento de tarefas construída com .NET
 
 2. Instale as dependências do .NET:
     ```bash
-    dotnet restore
+    dotnet restore TaskManagerAPI.csproj
     ```
 
 3. Crie um arquivo `appsettings.json` na raiz do diretório `TaskManagerAPI` com o seguinte conteúdo:
