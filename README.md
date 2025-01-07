@@ -16,7 +16,6 @@ Este projeto é uma aplicação de gerenciamento de tarefas construída com .NET
 - Microsoft.EntityFrameworkCore.Design
 - Microsoft.EntityFrameworkCore.Sqlite
 - Microsoft.AspNetCore.OpenApi
-- Moq
 - Swashbuckle.AspNetCore
 - System.ComponentModel.Annotations
 
