@@ -57,12 +57,18 @@ Este projeto é uma aplicação de gerenciamento de tarefas construída com .NET
       "AllowedHosts": "*"
     }
     ```
-4. Aplique as migrations para criar ou atualizar o banco de dados:
-5. ```bash
+
+4. Crie o arquivo do banco de dados SQLite:
+    ```json
+    touch tasks.db
+    ```
+    
+5. Aplique as migrations para criar ou atualizar o banco de dados:
+    ```bash
    dotnet ef database update
    ```
 
-7. Inicie o servidor backend:
+6. Inicie o servidor backend:
     ```bash
     dotnet run
     ```
