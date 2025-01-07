@@ -59,7 +59,7 @@ Este projeto é uma aplicação de gerenciamento de tarefas construída com .NET
     ```
 
 4. Crie o arquivo do banco de dados SQLite:
-    ```json
+    ```bash
     touch tasks.db
     ```
     
