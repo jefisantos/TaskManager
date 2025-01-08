@@ -4,8 +4,8 @@
 Este projeto é uma aplicação de gerenciamento de tarefas construída com .NET para o backend e Vue.js para o frontend, utilizando banco de dados SQLite.
 
 ## Pré-requisitos
-- Node.js (versão 23.5.0)
-- npm (versão 10.9.2)
+- Node.js (versão 14.17.0)
+- npm (versão 6.14.13)
 - .NET SDK (versão 9.0)
 - SQLite
 - Vue.js (versão 3.5.13)
